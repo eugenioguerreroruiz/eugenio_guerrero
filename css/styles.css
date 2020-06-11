@@ -159,7 +159,7 @@ sup {
 }
 
 a {
-  color: #bd5d38;
+  color: #0290E8;
   text-decoration: none;
   background-color: transparent;
 }
@@ -9799,7 +9799,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #bd5d38 !important;
+  color: #2b94c3 !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
@@ -9807,7 +9807,7 @@ a.text-primary:hover, a.text-primary:focus {
 }
 
 .text-secondary {
-  color: #6c757d !important;
+  color: #0290E8 !important;
 }
 
 a.text-secondary:hover, a.text-secondary:focus {
